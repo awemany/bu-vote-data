@@ -1,0 +1,12 @@
+{
+    "type" : "ProposalMetadata",
+    "version" : 1,
+    "title" : "BUIP002 Multi BIP scaling enabler"
+    "team" : "<hash-of:initial-members/members.json>",
+    "proposal" : "<hash-of:buip002/BUIP002.txt>",
+    "supersedes" : [],
+    "confirms" : [],
+    "ballot_options" : ["FOR", "AGAINST"],
+    "validation_methods" : ["SIMPLE_MAJORITY_PLUS_AT_LEAST_HALF_VOTING",
+			    "SUPERMAJORITY_PLUS_AT_LEAST_QUARTER_VOTING"]
+}

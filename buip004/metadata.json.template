@@ -1,0 +1,12 @@
+{
+    "type" : "ProposalMetadata",
+    "version" : 1,
+    "title" : "BUIP004 RBF Double Spending Support",
+    "team" : "<hash-of:initial-members/members.json>",
+    "proposal" : "<hash-of:buip004/buip004.txt>",
+    "supersedes" : [],
+    "confirms" : [],
+    "ballot_options" : ["A1", "A2", "B", "C"],
+    "validation_methods" : ["SIMPLE_MAJORITY_PLUS_AT_LEAST_HALF_VOTING",
+			    "SUPERMAJORITY_PLUS_AT_LEAST_QUARTER_VOTING"]
+}

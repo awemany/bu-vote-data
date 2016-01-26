@@ -1,0 +1,12 @@
+{
+    "type" : "ProposalMetadata",
+    "version" : 1,
+    "title" : "BUIP005 Settings Information via Coinbase TXN & user-agent",
+    "team" : "<hash-of:initial-members/members.json>",
+    "proposal" : "<hash-of:buip005/buip005.txt>",
+    "supersedes" : [],
+    "confirms" : [],
+    "ballot_options" : ["FOR", "AGAINST"],
+    "validation_methods" : ["SIMPLE_MAJORITY_PLUS_AT_LEAST_HALF_VOTING",
+			    "SUPERMAJORITY_PLUS_AT_LEAST_QUARTER_VOTING"]
+}

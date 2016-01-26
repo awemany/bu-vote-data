@@ -1,0 +1,11 @@
+{
+    "type" : "ProposalMetadata",
+    "title" : "Initial member list",
+    "proposal" : "<hash-of:initial-members/members.json>",
+    "team" : null,
+    "version" : 1,
+    "supersedes" : [],
+    "confirms" : [],
+    "ballot_options" : ["FOR", "AGAINST"],
+    "voting_methods" : ["SIMPLE_MAJORITY", "AT_LEAST_HALF_VOTING"]
+}
