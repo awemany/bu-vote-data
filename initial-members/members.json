@@ -3,11 +3,18 @@
     "type" : "MemberDict",
     "version" : 1,
     "member_map" : {
-	"awemany" : "1BCnpopAZ4xFSxdX8NvVqUaSvsPffQhNRd",
-	"theZerg" : "1zerg12nRXZ41Pw4tfCTqgtdiJx6D1We3",
-	"sickpig" : "1LwvkQTWmotqTosgBcK8kFPCKzW2BPiE1G",
-	"freetrader" : "1Libre7MGkCXr7pUAEbwihCR9X4quYAyQ4",
-	"Lee Adams" : "1ruQ2wceuMt83aXQsERyWGxQawHqXERSd"
+	"Lee Adams" :					"1ruQ2wceuMt83aXQsERyWGxQawHqXERSd",
+	"Peter R" :					"1BWZe6XkGLcf6DWC3TFXiEtZmcyAoNq5BW",
+	"Peter Tschipper" :				"1AmdP3nFWSJhkzszXHZNQiJLx7eUGRbzvs",
+	"awemany" :					"1BCnpopAZ4xFSxdX8NvVqUaSvsPffQhNRd",
+	"bitcartel" : 					"1DrjPfyUegaTuf6g4wcux3TZneLSZidxVg",
+	"freetrader" : 					"1Libre7MGkCXr7pUAEbwihCR9X4quYAyQ4",
+	"kostialevin" :					"1BTXKkt2TmkPEDmn6EBhh8t8r9cPbKwbBF",
+	"lunar" :					"1BpYYT2HQzQdz5CFPM1nehCZd1xWPtNbma",
+	"rezzme" :					"1GwL929cnZBk9XEjhpvciRC45AMETqFeQu",
+	"sickpig" : 					"1LwvkQTWmotqTosgBcK8kFPCKzW2BPiE1G",
+	"solex"   : 					"15TiujYmnHa33fjEnasBBm1eWcGx9YEXPL",
+	"theZerg" : 					"1zerg12nRXZ41Pw4tfCTqgtdiJx6D1We3"
     }
 }
 
