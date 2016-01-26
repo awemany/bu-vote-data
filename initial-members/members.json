@@ -3,7 +3,11 @@
     "type" : "MemberDict",
     "version" : 1,
     "member_map" : {
-	"awemany" : "1BCnpopAZ4xFSxdX8NvVqUaSvsPffQhNRd"
+	"awemany" : "1BCnpopAZ4xFSxdX8NvVqUaSvsPffQhNRd",
+	"theZerg" : "1zerg12nRXZ41Pw4tfCTqgtdiJx6D1We3",
+	"sickpig" : "1LwvkQTWmotqTosgBcK8kFPCKzW2BPiE1G",
+	"freetrader" : "1Libre7MGkCXr7pUAEbwihCR9X4quYAyQ4",
+	"Lee Adams" : "1ruQ2wceuMt83aXQsERyWGxQawHqXERSd"
     }
 }
 
